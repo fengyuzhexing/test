@@ -1,3 +1,4 @@
 testbegin
-devbranch
-masterB-localchange
+devbranch 
+masterB-localchange 
+masterA--onlinechange 
